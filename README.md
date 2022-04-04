@@ -1,4 +1,4 @@
-![Docker](https://github.com/AdalidTacubeno/Docker-Installation/blob/main/images/docker.jpeg) 
+![Docker](https://github.com/AdalidTacubeno/Docker-Installation/blob/main/images/image.png) 
 
 # Instalación de Docker en Mac [Docker](https://www.docker.com)
 
@@ -40,4 +40,4 @@
   
 
 
-![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Atlassian_Bitbucket_Logo.png/1600px-Atlassian_Bitbucket_Logo.png) 
+![Docker](https://github.com/AdalidTacubeno/Docker-Installation/blob/main/images/image.png) 
