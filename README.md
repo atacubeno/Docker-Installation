@@ -1,4 +1,4 @@
-![Docker](https://github.com/AdalidTacubeno/Docker-Installation/blob/main/images/image.png) 
+![Docker](https://github.com/AdalidTacubeno/Docker-Installation/blob/main/images/docker.jpeg) 
 
 # Instalación de Docker en Mac [Docker](https://www.docker.com)
 
